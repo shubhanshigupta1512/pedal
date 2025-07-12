@@ -43,5 +43,3 @@ Tech stack:
 
 <br>
 
-`Team: Powerpuff Boys`\
-`Team Members: Yash Anand, Kavya Priyam & Jit Mitra`
